@@ -9,6 +9,6 @@
     "sayhi": "node index.js"
   },
   "dependencies": {
-    "@hemangjs/modules": "1.0.0"
+    "@hemangjs/modules": "workspace:^"
   }
 }
