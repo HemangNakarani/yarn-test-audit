@@ -1,0 +1,16 @@
+{
+  "name": "TestAudit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hemang Nakarani",
+  "license": "Commercial",
+  "private": true,
+  "workspaces": [
+    "apps/main-app",
+    "packages/modules"
+  ],
+  "engines": {
+    "node": ">=18.14.2"
+  },
+  "packageManager": "yarn@4.1.1"
+}

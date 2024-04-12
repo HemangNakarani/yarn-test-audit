@@ -1,0 +1,11 @@
+{
+  "name": "@hemangjs/modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "@babel/traverse": "7.17.0"
+  }
+}
